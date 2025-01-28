@@ -1,6 +1,6 @@
-# Nama Proyek Portofolio
+# PORTOFOLIO VITE&REACT + SUPABASE
 
-**Deskripsi Singkat:**  
+**Deskripsi :**  
 Proyek ini adalah bagian dari portofolio saya yang dibuat untuk menunjukkan kemampuan dan pemahaman saya dalam pengembangan perangkat lunak. Kode ini dipublikasikan secara terbuka agar dapat diakses oleh siapa saja yang ingin mempelajari, menginspirasi, atau sekadar melihat contoh implementasi kode.
 
 ---
@@ -20,7 +20,7 @@ Berikut adalah teknologi, bahasa pemrograman, dan tools yang digunakan dalam pro
 Jika seseorang ingin menjalankan proyek ini secara lokal, berikut adalah langkah-langkahnya:
 
 ### Prasyarat
-- Pastikan Anda telah menginstal [Software yang Dibutuhkan, misalnya Node.js, Python, dll.].
+- Pastikan Anda telah menginstal  Node.js
 - Clone repositori ini ke komputer lokal Anda.
 
 ### Instalasi
@@ -56,9 +56,9 @@ Jika Anda menggunakan kode ini sebagai inspirasi, saya akan sangat senang jika A
 Jika Anda memiliki pertanyaan, saran, atau sekadar ingin terhubung, silakan hubungi saya melalui:
 
 - **Ferry Fernando**  
-- **LinkedIn:** [Profil LinkedIn Anda](https://www.linkedin.com/in/ferryfernandoo/)  
-- **GitHub:** [Profil GitHub Anda](https://github.com/ferynnd)
-- **Instagram:** [Profil Instagram Anda](https://instagram.com/ferynnd)  
+- **LinkedIn:** [Profil LinkedIn ](https://www.linkedin.com/in/ferryfernandoo/)  
+- **GitHub:** [Profil GitHub ](https://github.com/ferynnd)
+- **Instagram:** [Profil Instagram ](https://instagram.com/ferynnd)  
 
 ---
 
