@@ -25,7 +25,7 @@ function Navbar() {
 
     return (
         <>
-            <div className="flex items-center">
+            <div className="flex pt-5 items-center">
                 <nav className="relative w-full flex items-center justify-between">
                     <ul className="flex items-center min-w-0 space-x-4">
                         <li className="min-w-0">

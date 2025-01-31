@@ -74,7 +74,7 @@ function Home() {
                               <Link2 className="text-gray-700 dark:text-gray-200" />
                             </a>
                           ) : null
-                      }
+                      }bg-background 
                     </div>
                   </div>
                 </SpotlightCard>
